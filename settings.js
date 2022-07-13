@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94762593247'] //ur owner number
-global.ownername = "YASHAN SAMARANAYAKE" //ur owner name
-global.ytname = "YT: YASHAN" //ur yt chanel name
+global.ownername = "THENUKA SILVA" //ur owner name
+global.ytname = "YT: SL DEVIL" //ur yt chanel name
 global.socialm = "GitHub: mryashK" //ur github or insta name
-global.location = "Sri Lanka, Hambanthota" //ur location
+global.location = "Sri Lanka, Wattala" //ur location
 
 //bot bomdy 
-global.owner = ['94762593247']
-global.ownertag = '94762593247' //ur tag number
-global.botname = 'Cheems Bot By YASHAN' //ur bot name
+global.owner = ['94764842514']
+global.ownertag = '94764842514' //ur tag number
+global.botname = 'Cheems Bot By devil' //ur bot name
 global.linkz = "https://www.youtube.com/channel/UC_DLjCHzc5yPKcdVbsfYL7w" //your theme url which will be displayed on whatsapp
 global.websitex = "https://apswhatsappmods.blogspot.com/" //ur website to be displayed
 global.botscript = 'https://github.com/mryashK/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄YASHAN" //ur sticker watermark author
+global.author = "🦄DEVIL" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
